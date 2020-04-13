@@ -1,5 +1,7 @@
 package xfmt
 
+import "fmt"
+
 //颜色声明
 const (
 	Black = 30 + iota
